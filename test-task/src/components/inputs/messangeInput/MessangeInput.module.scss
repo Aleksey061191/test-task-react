@@ -1,0 +1,20 @@
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  margin: 0 0 10px;
+  width: 300px;
+}
+
+.messageInput {
+  height: 80px;
+}
+
+.p {
+  margin: 0;
+}
+
+.error {
+  color: red;
+  font-size: 12px;
+}
